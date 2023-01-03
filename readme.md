@@ -22,21 +22,22 @@
  To accelerate product sale by remote access, more choices and saving the time spent on trying the products.
 
 
-## Different techniques in Virtual Makeover💥💥:
+<!-- ## Different techniques in Virtual Makeover💥💥:
  -[Using Face Landmark detection via DLIB](https://github.com/akshitagupta15june/Face-X/tree/master/Virtual_makeover/Virtual-Makeup)
  
- -[Using Face Landmark detection via PIL](https://github.com/akshitagupta15june/Face-X/tree/master/Virtual_makeover/makeup)
+ -[Using Face Landmark detection via PIL](https://github.com/akshitagupta15june/Face-X/tree/master/Virtual_makeover/makeup) -->
 
 
 ## Have an Idea? Wanna contribute your own Virtual Makeover⁉
 - Clone this repository
-` git clone https://github.com/akshitagupta15june/Face-X.git`
+` https://github.com/kdg02/Virtual-Makeover.git`
 - Change Directory
 ` cd Virtual_makeover`
 - Make a folder and add your code file and a readme file with screenshots.
 - Commit message
 ` git commit -m "Enter message"`
 - Push your code
+` git config --globaal http.version HTTP/1.1`
 ` git push`
 - Make Pull request
 - Wait for reviewers to review your PR
